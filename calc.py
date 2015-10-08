@@ -79,7 +79,7 @@ while (True):
             print "Product: ", mult(a, b)
         elif (op == "/"):
             print "Quotient: ", div(a, b)
-		elif (op == "**"):
+        elif (op == "**"):
 			print "Power: ", exp(a, b)
         elif (op == "%"):
             print "Mod: ", mod(a, b)
